@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/Sexto _semestre/compiladores/aula3/Automato.hpp
+iostream
+-
+
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/Sexto _semestre/compiladores/aula3/main.cpp
+iostream
+-
+Automato.hpp
+/Volumes/HD_EXTERNO/paradas_de_algoritmo/Sexto _semestre/compiladores/aula3/Automato.hpp
+
